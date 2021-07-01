@@ -1,0 +1,11 @@
+.suggestions {
+  box-shadow: 0.1rem 0.1rem black;
+  border-radius: 0.2rem;
+  width: fit-content;
+  min-width: 12rem;
+
+  .item {
+    margin-top: 0.3rem;
+    border-bottom: 0.1rem dashed gray;
+  }
+}
